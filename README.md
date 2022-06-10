@@ -24,3 +24,11 @@ Pustaka booking web programming 3
     </td>
   </tr>
 </table>
+
+# User Login
+ - Admin
+    - Email : admin@gmail.com
+    - Password : admin
+ - Member
+    - Email : member@gmail.com
+    - Password : member 
